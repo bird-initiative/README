@@ -1,2 +1,1 @@
-# README
-A rule of github on bird-initiative.
+# [**BIRD INITIATIVE, Inc.**](https://bird-initiative.com)
